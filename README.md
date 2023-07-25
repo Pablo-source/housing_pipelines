@@ -10,7 +10,7 @@ Started to use Git from terminal to track all changes to several R scripts in a 
 - git pull
 - git push -u origin master
 
-Then using the terminal also from my Linux machine, push a local Git repository to a brand new GitHub project or repository. The following two scripts tracked in Git will be uploaded to this new GitHub repository:
+Then using the terminal also from my Linux machine, push a local Git repository to a brand new GitHub project or repository. The following initial four scripts tracked in Git will be uploaded to this new GitHub repository:
 
 ![05 long list files in Housing folder](https://github.com/Pablo-source/housing_pipelines/assets/76554081/09137d13-c113-49c9-8272-dc933802ec29)
 
