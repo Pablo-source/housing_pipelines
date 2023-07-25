@@ -1,4 +1,4 @@
-# housing_pipelines_learning 
+# housing pipelines - learning RAP and how to build R packages 
 Practising content from Bruno Rodrigues book "Building reproducible analytical pipelines with R"
 
 Learning Git commands: 
