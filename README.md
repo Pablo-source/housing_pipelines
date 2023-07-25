@@ -12,7 +12,7 @@ Started to use Git from terminal to track all changes to several R scripts in a 
 
 Then using the terminal also from my Linux machine, push a local Git repository to a brand new GitHub project or repository. The following two scripts tracked in Git will be uploaded to this new GitHub repository:
 
-![02 listing files in Housing repo](https://github.com/Pablo-source/housing_pipelines/assets/76554081/04966f7e-2b82-40a5-975b-a43cf6cbc60c)
+![05 long list files in Housing folder](https://github.com/Pablo-source/housing_pipelines/assets/76554081/09137d13-c113-49c9-8272-dc933802ec29)
 
 Adding all changes to the above two R scripts from the terminal, learning all required commands to push and modify my scripts from the project folder using the terminal:
 
@@ -27,4 +27,3 @@ Initial set of changes have been pushed to GitHub from my local repo
 Current set of files on my local git repo pushed to GitHub today
 
 
-![05 long list files in Housing folder](https://github.com/Pablo-source/housing_pipelines/assets/76554081/09137d13-c113-49c9-8272-dc933802ec29)
