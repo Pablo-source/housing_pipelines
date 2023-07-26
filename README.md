@@ -24,6 +24,8 @@ Added new files to the project commit them to start tracking its changes on my l
 
 Initial set of changes have been pushed to GitHub from my local repo
 
-Current set of files on my local git repo pushed to GitHub today
+![01 git add commit and push full example](https://github.com/Pablo-source/housing_pipelines/assets/76554081/4a0f9fcc-a606-4197-8c8b-b24525990e0d)
+
+
 
 
