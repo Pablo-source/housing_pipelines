@@ -1,6 +1,8 @@
 # This script analyses housing data for Luxembourg
+
 library(dplyr)
 library(ggplot2)
+library(purrr)
 library(tidyr)
 
 #Let’s load the datasets:
