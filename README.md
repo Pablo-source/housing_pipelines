@@ -4,6 +4,7 @@ Practising content from Bruno Rodrigues book "Building reproducible analytical p
 Learning Git commands: 
 
 Started to use Git from terminal to track all changes to several R scripts in a project
+- git init
 - git status
 - git add .
 - git commmit -m
