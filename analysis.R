@@ -1,5 +1,11 @@
 # This script analyses housing data for Luxembourg
 
+if(!require("dplyr")) install.packages("dplyr")
+if(!require("ggplot2")) install.packages("ggplot2")
+if(!require("purrr")) install.packages("purrr")
+if(!require("tidyr")) install.packages("tidyr") 
+
+
 library(dplyr)
 library(ggplot2)
 library(purrr)
