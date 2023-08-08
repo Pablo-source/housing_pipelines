@@ -21,6 +21,8 @@ Untracked files modified using git in the steps described below:
 
 ## 1. Applying changes to code from git and uploading scrupt to GitHub
 
+### 1.1 Using git to track changes to the project files using the terminal
+
 Adding all changes to the above R scripts from the terminal, learning all required commands to push and modify my scripts from the project folder using the terminal:
 
 ![03 git commit](https://github.com/Pablo-source/housing_pipelines/assets/76554081/a9055639-2cf0-4393-a902-9d5f838d353b)
@@ -33,7 +35,7 @@ Initial set of changes have been pushed to GitHub from my local repo
 
 ![01 git add commit and push full example](https://github.com/Pablo-source/housing_pipelines/assets/76554081/4a0f9fcc-a606-4197-8c8b-b24525990e0d)
 
-## 2. Creating different branches to work on different features
+## 2. Creating branches to work on new features
 
 For each new feature I create a new branches as from Pablo-tester from Pablo-source Master branch
 
